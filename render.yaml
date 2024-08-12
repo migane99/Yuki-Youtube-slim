@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: migane-gakutabukisei
+    name: migane-4545114514
     env: python
     region: Oregon
     plan: free
